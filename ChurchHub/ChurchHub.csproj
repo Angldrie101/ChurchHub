@@ -128,6 +128,25 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\animatecss\animate.css" />
+    <Content Include="assets\book\bootstrap-grid.min.css" />
+    <Content Include="assets\book\bootstrap-reboot.min.css" />
+    <Content Include="assets\book\bootstrap.bundle.min.js" />
+    <Content Include="assets\book\bootstrap.min.css" />
+    <Content Include="assets\book\embla.min.js" />
+    <Content Include="assets\book\formoid.min.js" />
+    <Content Include="assets\book\logo5.png" />
+    <Content Include="assets\book\mbr-additional.css" />
+    <Content Include="assets\book\photo-1491396023581-4344e51fec5c.jpeg" />
+    <Content Include="assets\book\photo-1547382002-b908c9367d83.jpeg" />
+    <Content Include="assets\book\photo-1555892727-55b51e5fceae.jpeg" />
+    <Content Include="assets\book\photo-1571069424149-c456e0b413d6.jpeg" />
+    <Content Include="assets\book\photo-1579975096649-e773152b04cb.jpeg" />
+    <Content Include="assets\book\script.js" />
+    <Content Include="assets\book\smooth-scroll.js" />
+    <Content Include="assets\book\style.css" />
+    <Content Include="assets\book\mobirise2.css" />
+    <Content Include="assets\book\mobirise2.svg" />
+    <Content Include="assets\book\theme\script.js" />
     <Content Include="assets\bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="assets\bootstrap\css\bootstrap-reboot.min.css" />
     <Content Include="assets\bootstrap\css\bootstrap.min.css" />
@@ -182,9 +201,18 @@
     <Content Include="assets\web\assets\mobirise-icons2\mobirise2.eot" />
     <Content Include="assets\web\assets\mobirise-icons2\mobirise2.ttf" />
     <Content Include="assets\web\assets\mobirise-icons2\mobirise2.woff" />
+    <Content Include="assets\book\hashes.json" />
+    <Content Include="assets\book\mobirise2.eot" />
+    <Content Include="assets\book\mobirise2.ttf" />
+    <Content Include="assets\book\mobirise2.woff" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\jquery-1.10.2.js" />
     <Content Include="scripts\jquery-1.10.2.min.js" />
+    <None Include="scripts\jquery.validate-vsdoc.js" />
+    <Content Include="scripts\jquery.validate.js" />
+    <Content Include="scripts\jquery.validate.min.js" />
+    <Content Include="scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="scripts\modernizr-2.6.2.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>

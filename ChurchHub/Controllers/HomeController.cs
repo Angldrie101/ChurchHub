@@ -201,6 +201,11 @@ namespace ChurchHub.Controllers
             TempData["Message"] = $"User Information {ErrorMessage}!";
             return View(userInf);
         }
+        [AllowAnonymous]
+        public ActionResult Booking()
+        {
+            return View();
+        }
 
         [AllowAnonymous]
         public ActionResult PageNotFound()
